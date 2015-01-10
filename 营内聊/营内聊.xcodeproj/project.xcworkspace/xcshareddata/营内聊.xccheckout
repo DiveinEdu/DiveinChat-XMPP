@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69065D61-A7CD-4331-BE6B-F8D1DE326C97</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D</key>
+		<string>https://github.com/robbiehanson/XMPPFramework.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D</key>
+		<string>XMPPFramework/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/robbiehanson/XMPPFramework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B775552D1BBEEADC6A0BBB2FD048B6AA26CB309D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XMPPFramework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
